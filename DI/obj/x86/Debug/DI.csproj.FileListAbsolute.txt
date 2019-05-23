@@ -1,0 +1,12 @@
+/Users/zrysnd/Projects/DI/DI/bin/Debug/DI.exe
+/Users/zrysnd/Projects/DI/DI/bin/Debug/DI.pdb
+/Users/zrysnd/Projects/DI/DI/bin/Debug/nunit.framework.dll
+/Users/zrysnd/Projects/DI/DI/bin/Debug/Zenject-tests.dll
+/Users/zrysnd/Projects/DI/DI/bin/Debug/Zenject.dll
+/Users/zrysnd/Projects/DI/DI/bin/Debug/nunit.framework.pdb
+/Users/zrysnd/Projects/DI/DI/bin/Debug/nunit.framework.xml
+/Users/zrysnd/Projects/DI/DI/obj/x86/Debug/DI.csprojAssemblyReference.cache
+/Users/zrysnd/Projects/DI/DI/obj/x86/Debug/DI.csproj.CoreCompileInputs.cache
+/Users/zrysnd/Projects/DI/DI/obj/x86/Debug/DI.csproj.CopyComplete
+/Users/zrysnd/Projects/DI/DI/obj/x86/Debug/DI.exe
+/Users/zrysnd/Projects/DI/DI/obj/x86/Debug/DI.pdb

@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{8D412625-5AAD-419C-9460-96A4A35EBB75}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DI/Properties/NUnitTestClass.cs">
+    <Files>
+      <File FileName="DI/Properties/Engineer.cs" Line="33" Column="1" />
+      <File FileName="DI/Program.cs" Line="10" Column="1" />
+      <File FileName="DI/Properties/DIinstaller.cs" Line="9" Column="10" />
+      <File FileName="DI/Properties/NUnitTestClass.cs" Line="15" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DI" expanded="True">
+            <Node name="DI" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="NUnitTestClass.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DI" expanded="True">
+            <Node name="DI" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
