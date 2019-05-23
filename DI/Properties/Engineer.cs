@@ -14,7 +14,7 @@ namespace DI.Properties
         Ialgo _algo;
 
         string _name;
-        public Engineer()
+        public Engineer()// you masked the base constructor. override Setup() instead. 
         {
             _name = _algo.getName();//gets error, _algo is null.
         }
